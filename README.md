@@ -1,1 +1,1 @@
-### Swifter.
+### /ˈswɪftə/ · Swifter.
