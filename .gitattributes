@@ -1,0 +1,13 @@
+# Copyright SwifterTheDragon, and the SwifterTheDragon/SwifterTheDragon contributors, 2025. All Rights Reserved.
+# This .gitattributes file should be placed in the root directory of the repository.
+# SwifterTheDragon's .gitattributes for SwifterTheDragon/SwifterTheDragon.
+# Please do not overwrite this file with a template!
+
+# gitattributes docs: https://www.git-scm.com/docs/gitattributes
+
+# Lines starting with '#' are treated as comment lines.
+
+# Set default behaviour to automatically normalise line endings.
+* text=auto
+
+# Copyright SwifterTheDragon, and the SwifterTheDragon/SwifterTheDragon contributors, 2025. All Rights Reserved.
