@@ -1,0 +1,14 @@
+# SPDX-FileCopyrightText: © 2025 SwifterTheDragon. All Rights Reserved.
+# SPDX-License-Identifier: LicenseRef-AllRightsReserved
+
+# This CODEOWNERS file should be placed in the root directory of a repository.
+# SwifterTheDragon's CODEOWNERS for SwifterTheDragon/SwifterTheDragon.
+# Please do not overwrite this file with a template!
+
+# CODEOWNERS documentation:
+# https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Lines starting with '#' are treated as comment lines.
+
+# Set every file as owned by SwifterTheDragon.
+* @SwifterTheDragon
