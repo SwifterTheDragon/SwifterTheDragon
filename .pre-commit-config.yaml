@@ -1,4 +1,8 @@
 # SPDX-FileCopyrightText: © 2025 SwifterTheDragon. All Rights Reserved.
 # SPDX-License-Identifier: LicenseRef-AllRightsReserved
 
-* @SwifterTheDragon
+repos:
+-   repo: https://github.com/fsfe/reuse-tool
+    rev: v5.0.2
+    hooks:
+    -   id: reuse
