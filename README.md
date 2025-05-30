@@ -1,4 +1,5 @@
-Copyright SwifterTheDragon, and the SwifterTheDragon/SwifterTheDragon contributors, 2025. All Rights Reserved.
+SPDX-FileCopyrightText: © 2025 SwifterTheDragon. All Rights Reserved.
+SPDX-License-Identifier: LicenseRef-AllRightsReserved
 
 ---
 
@@ -18,7 +19,3 @@ This is the default branch.
 
 This is the branch you are using to see this markdown.
 Provides branch descriptions.
-
----
-
-Copyright SwifterTheDragon, and the SwifterTheDragon/SwifterTheDragon contributors, 2025. All Rights Reserved.
