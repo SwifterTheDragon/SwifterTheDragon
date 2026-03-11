@@ -1,20 +1,20 @@
-SPDX-FileCopyrightText: © 2025 Swifter Sash Spaan. All Rights Reserved.
+SPDX-FileCopyrightText: © 2025 Swifter Sash Spaan. All rights reserved.
 
 SPDX-License-Identifier: LicenseRef-AllRightsReserved
 
----
+***
 
-# Readme
+# Description
 
-This markdown provides branch descriptions.
+This document provides branch descriptions.
 
----
+***
 
 # main
 
 This is the default branch.
 
----
+***
 
 # branches-readme
 
